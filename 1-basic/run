@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "robohydra ./robohydra/config.json"
+
+robohydra ./robohydra/config.json
